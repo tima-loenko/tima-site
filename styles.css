@@ -1,0 +1,15 @@
+img {
+	display: inline;
+	height: 64px;
+}
+h1 {
+	color: darkgreen;
+	font-size: 300%;
+	display: inline;
+	text-shadow: 3px 3px 5px black;
+}
+body {
+	 background-image: url(flowers.png);
+	 background-size: 100%;
+	 text-align: center;
+}
